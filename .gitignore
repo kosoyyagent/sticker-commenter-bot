@@ -1,0 +1,4 @@
+.env
+tg_bot.env
+__pycache__/
+*.pyc
